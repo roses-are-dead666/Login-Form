@@ -166,6 +166,46 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+@media (max-width: 575px) {
+    
+    .login__box {
+        width: 250px;
+        padding: 30px;
+    }
+    
+    .logo {
+        font-size: 30px;
+    }
+    
+    .box__login {
+        padding: 10px 0;
+        font-size: 15px;
+        
+    }
+    
+    .box__login input[type = "text"], .box__login input[type = "password"] {
+        font-size: 12px;
+    }
+    
+    .options {
+        font-size: 12px;
+    }
+    
+    .login__btn {
+        padding: 10px 10px;
+        letter-spacing: 2px;
+        font-size: 12px;
+    }
+    
+    .footer__text {
+        font-size: 17px;
+    }
+    
+    .icons a {
+        font-size: 20px;
+    }
+}
+
 
 
 
