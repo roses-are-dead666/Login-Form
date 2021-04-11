@@ -84,13 +84,13 @@ h1, h2, h3, h4, h5, h6 {
 .options a {
     text-decoration: none;
     color: #FFF;
-    transition: .1s linear;
+    transition: .2s linear;
     
 }
 
 .options a:hover {
     color: #ff6680;
-    text-decoration: underline;
+    
   
 }
 
